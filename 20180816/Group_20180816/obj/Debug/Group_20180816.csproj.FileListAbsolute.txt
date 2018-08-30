@@ -1,0 +1,7 @@
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\obj\Debug\Group_20180816.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\obj\Debug\Group_20180816.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\bin\Debug\Group_20180816.exe.config
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\bin\Debug\Group_20180816.exe
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\bin\Debug\Group_20180816.pdb
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\obj\Debug\Group_20180816.exe
+C:\Users\Raffieldjt\source\repos\Group_20180816\Group_20180816\obj\Debug\Group_20180816.pdb
