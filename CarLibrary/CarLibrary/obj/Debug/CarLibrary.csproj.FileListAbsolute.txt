@@ -1,0 +1,6 @@
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\Raffieldjt\source\repos\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
