@@ -1,0 +1,12 @@
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\bin\Debug\AnimalsClass.dll
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\bin\Debug\AnimalsClass.pdb
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\obj\Debug\AnimalsClass.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\obj\Debug\AnimalsClass.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\obj\Debug\AnimalsClass.dll
+C:\Users\Raffieldjt\source\repos\Inheritance\AnimalsClass\obj\Debug\AnimalsClass.pdb
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\bin\Debug\AnimalsClass.dll
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\bin\Debug\AnimalsClass.pdb
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\obj\Debug\AnimalsClass.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\obj\Debug\AnimalsClass.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\obj\Debug\AnimalsClass.dll
+C:\Users\Raffieldjt\source\repos\Farm\AnimalsClass\obj\Debug\AnimalsClass.pdb
