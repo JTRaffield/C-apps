@@ -1,0 +1,10 @@
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe.config
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.exe
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\CoffeeHouse.pdb
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.exe
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.pdb
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\ClassLibrary.dll
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\ClassLibrary.pdb
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\CoffeeHouse.csproj.CopyComplete
