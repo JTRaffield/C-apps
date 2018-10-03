@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MilitaryUnit
 {
-    class PersonnelClass
+    public class PersonnelClass
     {
         public void Rank(string rankOfPersonnel)
         {
@@ -15,7 +15,7 @@ namespace MilitaryUnit
         }
         public virtual void Position()
         {
-            
+            Console.WriteLine("Default Value");
         }
         public virtual void Role()
         {
