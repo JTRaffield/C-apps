@@ -1,0 +1,6 @@
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Raffieldjt\source\repos\CoffeeHouse\ClassLibrary\obj\Debug\ClassLibrary.pdb

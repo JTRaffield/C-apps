@@ -1,0 +1,7 @@
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.exe.config
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.exe
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\bin\Debug\MilitaryUnit.pdb
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.exe
+C:\Users\Raffieldjt\source\repos\MilitaryUnit\MilitaryUnit\obj\Debug\MilitaryUnit.pdb

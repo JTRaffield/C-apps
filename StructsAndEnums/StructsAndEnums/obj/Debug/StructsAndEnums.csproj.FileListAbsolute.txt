@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
@@ -5,3 +6,12 @@ C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.CoreCompileInputs.cache
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
 C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
+=======
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\Raffieldjt\Desktop\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
+>>>>>>> Upload
