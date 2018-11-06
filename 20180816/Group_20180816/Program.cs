@@ -8,12 +8,14 @@ namespace Group_20180816
 {
     class Program
     {
+        //write program that calculates total sales, county tax, and state tax. Then displays each amount and the combined totals. 
         static void Main(string[] args)
         {
+            //Practicing separation of responsibilities, I place each function in a separate method
             double sales = Sales();
-            double CountyTax = sales * .02;
-            double StateTax = sales * .04;
-            double TotalTax = CountyTax + StateTax;
+            double CountyTax = GetCountyTax(Sales)
+            double StateTax = GetStateTax(Sales)
+            double TotalTax = GetTotalTax(CountyTax, StateTax)
             DisplayMessage(CountyTax);
             DisplayMessage2(StateTax);
             DisplayMessage3(TotalTax);
@@ -43,6 +45,24 @@ namespace Group_20180816
         {
             Console.WriteLine($"The Total Tax is {TotalTax}");
             Console.ReadLine();
+            return TotalTax;
+        }
+        
+        static double GetCountyTax(double sales)
+        {
+            double CountyTax = sales * .02;
+            return CountyTax;
+        }
+        
+        static double GetStateTax(double sales)
+        {
+            double StateTax = sales * .04;
+            return StateTax;
+        }
+        
+        static double GetTotalTax(double CountyTax, double StateTax)
+        {
+            double TotalTax = CountyTax + StateTax;
             return TotalTax;
         }
     }
