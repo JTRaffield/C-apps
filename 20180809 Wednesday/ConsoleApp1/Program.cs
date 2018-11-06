@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+        //create a program that displays information to the user
         /*static void Main(string[] args)
         {
             Console.WriteLine("Johnathan");
@@ -17,6 +18,7 @@ namespace ConsoleApp1
         }*/
 
 
+        //create a program that takes a number of sales from the user and calculates the amount of profit from the sales
         /*static void Main()
         {
             Console.WriteLine("Enter the projected amount of sales.");
@@ -25,7 +27,7 @@ namespace ConsoleApp1
             Console.WriteLine($"Projected amount of profit is ${P}.");
         }*/
 
-
+        //write a program that takes the prices of items and finds the subtotal, and the total price of all the itmes with a 6% sales
         static void Main()
         {
             Console.WriteLine("Enter Price of first item.");
