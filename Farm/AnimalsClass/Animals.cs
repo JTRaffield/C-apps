@@ -15,11 +15,13 @@ namespace AnimalsClass
         public string Food { get; set; }
         public string Product { get; set; }
         
+        //Default constructor
         public Animals()
         {
          
         }
 
+        //method that takes user input and assigns an animal
         public string GetAnimal()
         {
             if (this.Animal == "1") return "Cow";
@@ -29,6 +31,7 @@ namespace AnimalsClass
             return Animal;
         }
 
+        //method that takes user input and assigns a name
         public string GetName()
         {
             if (this.Name == "1") return "Rex";
@@ -38,6 +41,7 @@ namespace AnimalsClass
             return Name;
         }
 
+        //method that takes user input and assigns a color
         public string GetColor()
         {
             if (this.Color == "1") return "Black";
@@ -47,6 +51,7 @@ namespace AnimalsClass
             return Color;
         }
 
+        //method that takes the animal number and and assigns its sound
         public string GetSound()
         {
             if (this.Animal == "1") return this.Sound = "Moo!";
@@ -56,6 +61,7 @@ namespace AnimalsClass
             return Sound;
         }
 
+        //method that takes the animal number and assigns its food
         public string GetFood()
         {
             if (this.Animal == "1") return this.Food = "grass";
@@ -65,6 +71,7 @@ namespace AnimalsClass
             return Food;
         }
 
+        //method that takes the animal number and assigns its product
         public string GetProduct()
         {
             if (this.Animal == "1") return this.Product = "beef";

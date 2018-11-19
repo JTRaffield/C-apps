@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace MilitaryUnit
 {
-    class Communication: Equipment
+    class Communication
     {
-        public override void Name()
+        public void Name()
         {
             Console.WriteLine("Wide Area Network Service Module version 2");
         }
-        public override void Function()
+        public void Function()
         {
             Console.WriteLine("Used to connect ultiple LANs together in the field");
         }
-        public override void Operator()
+        public void Operator()
         {
             Console.WriteLine("Operated by a network administrator");
         }

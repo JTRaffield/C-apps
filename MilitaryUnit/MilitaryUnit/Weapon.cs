@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace MilitaryUnit
 {
-    class Weapon: Equipment
+    class Weapon
     {
-        public override void Function()
+        public void Function()
         {
             Console.WriteLine("Used to quickly send metal rounds to the enemy");
         }
-        public override void Operator()
+        public void Operator()
         {
             Console.WriteLine("Operated by all marines to some extent");
         }

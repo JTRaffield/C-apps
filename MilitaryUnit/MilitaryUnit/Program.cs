@@ -11,6 +11,7 @@ namespace MilitaryUnit
         static void Main(string[] args)
         {
             
+            //New junior personnel object
             Console.WriteLine("Bryan Shmukatelli");
             Juniors person1 = new Juniors();
             person1.Rank("Lance Corporal");
@@ -19,6 +20,7 @@ namespace MilitaryUnit
             person1.Credit();
             Console.WriteLine();
 
+            //new senior personnel object
             Console.WriteLine("James Leadman");
             Seniors person2 = new Seniors();
             person2.Rank("First Sergeant");
@@ -27,7 +29,7 @@ namespace MilitaryUnit
             person2.Credit();
             Console.WriteLine();
 
-
+            //new communication gear object
             Console.WriteLine("WSMV2");
             Communication wsm1 = new Communication();
             wsm1.Name();
@@ -35,6 +37,7 @@ namespace MilitaryUnit
             wsm1.Operator();
             Console.WriteLine();
 
+            //new weapon object
             Console.WriteLine("M16");
             Weapon gun1 = new Weapon();
             gun1.Function();

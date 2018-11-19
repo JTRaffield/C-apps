@@ -16,7 +16,7 @@ namespace CarLibrary
         //This is a default constructor that creates an empty car
         public Car() { }
 
-        //Constructor (Has the same name as the class)
+        //Constructor with properties (Has the same name as the class)
         public Car(int yearModel, string make)
         {
             this.YearModel = yearModel;
@@ -24,20 +24,16 @@ namespace CarLibrary
             this.Speed = 0;
         }
 
-        //Method
+        //Method for increasing speed
         public void Accelerate()
         {
-            this.Speed += 5;           
+            this.Speed += 5;
         }
 
-        //Method
+        //Method for decreasing speed
         public void Brake()
         {
             this.Speed -= 5;
         }
-    }
-    public class truck
-    {
-
     }
 }
