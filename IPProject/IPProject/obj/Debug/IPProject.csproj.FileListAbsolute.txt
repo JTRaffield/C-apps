@@ -1,0 +1,7 @@
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\obj\Debug\IPProject.csprojAssemblyReference.cache
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\obj\Debug\IPProject.csproj.CoreCompileInputs.cache
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\bin\Debug\IPProject.exe.config
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\bin\Debug\IPProject.exe
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\bin\Debug\IPProject.pdb
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\obj\Debug\IPProject.exe
+C:\Users\Raffieldjt\source\repos\IPProject\IPProject\obj\Debug\IPProject.pdb
